@@ -1,0 +1,2 @@
+rootProject.name='ToyVPN'
+include ':app'
